@@ -1,3 +1,6 @@
+//Srinivas.Kota
+//21070126050
+//2021-2025
 import java.util.Scanner;
 
 public class NearestNeighbors {
